@@ -1,0 +1,6 @@
+<!doctype="html">
+<html>
+	<body>
+		<p id=“p1”>Paragraph with id = p1</p>
+	</body>
+</html>
